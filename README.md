@@ -21,7 +21,6 @@ Hi, I'm **Tamilarasan** — a Full-Stack Developer with a passion for building f
 
 ## 🌟 Featured Projects
 - **SkillBridge AI:** AI-powered platform with a Job Scam Detector and personalized Career Roadmap Generator.
-- **Smart Health & Environment Monitoring:** Real-time IoT-based environment tracking dashboard.
 
 ---
 
